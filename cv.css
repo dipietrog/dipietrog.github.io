@@ -16,10 +16,6 @@ body {
 
 .general {
     grid-template-columns: 3fr 7fr;
-    /*
-    max-width: 1000px;
-    min-height: 100px;
-    **/
     background-color: rgb(255, 255, 255);
     width: 50%;
     margin: 25px;
